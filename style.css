@@ -10,9 +10,9 @@
     --clr-surface: #ffffff;
     --clr-text: #1c1917;
     --clr-text-muted: #78716c;
-    --clr-primary: #6b7f5e;
-    --clr-primary-light: #8fa680;
-    --clr-primary-bg: #f2f5ef;
+    --clr-primary: #7cb668;
+    --clr-primary-light: #9ed18b;
+    --clr-primary-bg: #f0f8ec;
     --clr-accent: #e7e5e4;
     --clr-border: #e5e5e5;
     --font-heading: 'Playfair Display', Georgia, serif;
@@ -230,7 +230,7 @@ img {
     background: var(--clr-primary-light);
     border-color: var(--clr-primary-light);
     transform: translateY(-2px);
-    box-shadow: 0 8px 24px rgba(107, 127, 94, 0.3);
+    box-shadow: 0 8px 24px rgba(124, 182, 104, 0.3);
 }
 
 .btn-outline {
@@ -243,7 +243,7 @@ img {
     background: var(--clr-primary);
     color: #fff;
     transform: translateY(-2px);
-    box-shadow: 0 8px 24px rgba(107, 127, 94, 0.3);
+    box-shadow: 0 8px 24px rgba(124, 182, 104, 0.3);
 }
 
 /* ===== Sections ===== */
@@ -293,7 +293,7 @@ img {
     font-weight: 700;
     color: #fff;
     margin: 0 auto;
-    box-shadow: 0 12px 40px rgba(107, 127, 94, 0.2);
+    box-shadow: 0 12px 40px rgba(124, 182, 104, 0.25);
 }
 
 .about-intro {
